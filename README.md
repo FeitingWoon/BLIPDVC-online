@@ -1,4 +1,6 @@
-# CDI online
+# BLIP Developmental Vocab checklist Online version
+Forked from CDI-Online v1.9 by http://github.com/gkrajewski/CDI-online <br>
+Below is ReadMe contents from original CDI-Online
 Currently deployed version: v1.9 <br>
 Documentation: https://docs.google.com/document/d/1-jqseaOw0QnvK7eQfRKUZTedJ4jp7Y9-YTqJgnltQb0/edit#heading=h.cfni66gw85m0 <br>
 Making a renv snapshot: renv::snapshot()
